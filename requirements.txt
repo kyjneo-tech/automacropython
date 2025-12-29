@@ -1,0 +1,30 @@
+# GUI
+customtkinter==5.2.0
+pillow>=9.0.0
+
+# Automation
+pyautogui>=0.9.54
+pynput>=1.7.6
+pyperclip>=1.8.2
+
+# Vision
+opencv-python>=4.8.0
+numpy>=1.24.0
+mss>=9.0.0
+
+# Future Extensions
+apscheduler==3.10.4
+pytesseract==0.3.10
+openpyxl==3.1.2
+pandas==2.0.3
+PyPDF2==3.0.1
+
+# Database (for logging)
+sqlalchemy==2.0.20
+
+# Notifications
+win10toast==0.9
+plyer==2.1.0
+
+# Deployment
+pyinstaller==6.0.0
